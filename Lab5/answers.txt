@@ -1,0 +1,10 @@
+﻿
+1.
+	a) 4 processes were created from this program.
+	b) 8 processes were created when you add another fork statement.
+	c) The relation is P(n) = 2^n where n is the number of forks in the program, P is the # of processes created.
+	d) refer to screenshots
+	e) The parents change because the fork creates a child from itself, making it a parent.
+	
+
+	

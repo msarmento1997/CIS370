@@ -1,0 +1,29 @@
+1.
+	a)32 bytes are written from the upstream end of the pipe.
+	b)32 bytes are read from the downstream end of the pipe.
+	c) OUTPUT:
+		Msg_1: Hel (Chars read: 10)
+		1234567890123456789012345678901234567890
+		lo CIS370
+		 (Chars read: 10)
+		1234567890123456789012345678901234567890
+	 	(Chars read: 10)
+		1234567890123456789012345678901234567890
+		
+	It seems that when you change it to 10 it continues to read 10 bytes at a time from the first MSG line. Since the line is 32 bytes originally and you are reading 10 byes at a time, the first line reads the first 10 bytes, the second line is reading the next 10 bytes, and the third line reads the next 10 bytes which is nothing.
+	
+
+	d)OUTPUT:
+		Msg_1: Hello CIS370
+		 (Chars read: 50)
+		1234567890123456789012345678901234567890
+		0
+		 (Chars read: 46)
+		1234567890123456789012345678901234567890
+	When you change the value to 50 it continues  past the message since the original size of the message lines were 32 bytes. However, now it is reading past through specificed 32 bytes and reading absolutely nothing which I would assume is causing an error.
+
+
+2.
+	a)When you comment line 30 the pipe never closes so the termiinal never stops executing the program until you hit ctrl + c. It still runs the same output though. The child keeps on reading from the parent.
+
+	b)When you move line 31 right after line 27 and run the program it produces a blank terminal where you wait forever unless you decide to press ctrl + C, to end the execution of the code. Child will be stuck on the reading part and never exits. Parent is stuck waiting.

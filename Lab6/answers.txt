@@ -1,0 +1,5 @@
+1.
+
+A) Yes, the newly created processes of C1 and C2 have their own copies of the different varaibles declared in the parent process. Because each process takes on it own copied values and writes them out to the file. You can see this because child 1 and child 2 print out at a different rate.
+
+B) No there is not a fixed order of execution between C1 and C2, for instance each run cycle the amount of times C2 prints before C1 changes with each run.

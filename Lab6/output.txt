@@ -1,0 +1,2002 @@
+Parent process: my value is 91 and my index is 0 
+
+Child 1: my value is 91 and my index is 1 
+Child 1: my value is 92 and my index is 2 
+Child 1: my value is 93 and my index is 3 
+Child 1: my value is 94 and my index is 4 
+Child 1: my value is 95 and my index is 5 
+Child 1: my value is 96 and my index is 6 
+Child 1: my value is 97 and my index is 7 
+Child 1: my value is 98 and my index is 8 
+Child 1: my value is 99 and my index is 9 
+Child 1: my value is 100 and my index is 10 
+Child 1: my value is 101 and my index is 11 
+Child 1: my value is 102 and my index is 12 
+Child 1: my value is 103 and my index is 13 
+Child 1: my value is 104 and my index is 14 
+Child 1: my value is 105 and my index is 15 
+Child 1: my value is 106 and my index is 16 
+Child 1: my value is 107 and my index is 17 
+Child 1: my value is 108 and my index is 18 
+Child 1: my value is 109 and my index is 19 
+Child 1: my value is 110 and my index is 20 
+Child 1: my value is 111 and my index is 21 
+Child 1: my value is 112 and my index is 22 
+Child 1: my value is 113 and my index is 23 
+Child 1: my value is 114 and my index is 24 
+Child 1: my value is 115 and my index is 25 
+Child 1: my value is 116 and my index is 26 
+Child 1: my value is 117 and my index is 27 
+Child 1: my value is 118 and my index is 28 
+Child 1: my value is 119 and my index is 29 
+Child 1: my value is 120 and my index is 30 
+Child 1: my value is 121 and my index is 31 
+Child 1: my value is 122 and my index is 32 
+Child 1: my value is 123 and my index is 33 
+Child 1: my value is 124 and my index is 34 
+Child 1: my value is 125 and my index is 35 
+Child 1: my value is 126 and my index is 36 
+Child 1: my value is 127 and my index is 37 
+Child 1: my value is 128 and my index is 38 
+Child 1: my value is 129 and my index is 39 
+Child 1: my value is 130 and my index is 40 
+Child 1: my value is 131 and my index is 41 
+Child 1: my value is 132 and my index is 42 
+Child 1: my value is 133 and my index is 43 
+Child 1: my value is 134 and my index is 44 
+Child 1: my value is 135 and my index is 45 
+Child 1: my value is 136 and my index is 46 
+Child 1: my value is 137 and my index is 47 
+Child 1: my value is 138 and my index is 48 
+Child 1: my value is 139 and my index is 49 
+Child 1: my value is 140 and my index is 50 
+Child 1: my value is 141 and my index is 51 
+Child 1: my value is 142 and my index is 52 
+Child 1: my value is 143 and my index is 53 
+Child 1: my value is 144 and my index is 54 
+Child 1: my value is 145 and my index is 55 
+Child 1: my value is 146 and my index is 56 
+Child 1: my value is 147 and my index is 57 
+Child 1: my value is 148 and my index is 58 
+Child 1: my value is 149 and my index is 59 
+Child 1: my value is 150 and my index is 60 
+Child 1: my value is 151 and my index is 61 
+Child 1: my value is 152 and my index is 62 
+Child 1: my value is 153 and my index is 63 
+Child 1: my value is 154 and my index is 64 
+Child 1: my value is 155 and my index is 65 
+Child 1: my value is 156 and my index is 66 
+Child 1: my value is 157 and my index is 67 
+Child 1: my value is 158 and my index is 68 
+Child 1: my value is 159 and my index is 69 
+Child 1: my value is 160 and my index is 70 
+Child 1: my value is 161 and my index is 71 
+Child 1: my value is 162 and my index is 72 
+Child 1: my value is 163 and my index is 73 
+Child 1: my value is 164 and my index is 74 
+Child 1: my value is 165 and my index is 75 
+Child 1: my value is 166 and my index is 76 
+Child 1: my value is 167 and my index is 77 
+Child 1: my value is 168 and my index is 78 
+Child 1: my value is 169 and my index is 79 
+Child 1: my value is 170 and my index is 80 
+Child 1: my value is 171 and my index is 81 
+Child 1: my value is 172 and my index is 82 
+Child 1: my value is 173 and my index is 83 
+Child 1: my value is 174 and my index is 84 
+Child 1: my value is 175 and my index is 85 
+Child 1: my value is 176 and my index is 86 
+Child 1: my value is 177 and my index is 87 
+Child 1: my value is 178 and my index is 88 
+Child 1: my value is 179 and my index is 89 
+Child 1: my value is 180 and my index is 90 
+Child 1: my value is 181 and my index is 91 
+Child 1: my value is 182 and my index is 92 
+Child 1: my value is 183 and my index is 93 
+Child 1: my value is 184 and my index is 94 
+Child 1: my value is 185 and my index is 95 
+Child 1: my value is 186 and my index is 96 
+Child 1: my value is 187 and my index is 97 
+Child 1: my value is 188 and my index is 98 
+Child 1: my value is 189 and my index is 99 
+Child 1: my value is 190 and my index is 100 
+Child 1: my value is 191 and my index is 101 
+Child 1: my value is 192 and my index is 102 
+Child 1: my value is 193 and my index is 103 
+Child 1: my value is 194 and my index is 104 
+Child 1: my value is 195 and my index is 105 
+Child 1: my value is 196 and my index is 106 
+Child 1: my value is 197 and my index is 107 
+Child 1: my value is 198 and my index is 108 
+Child 1: my value is 199 and my index is 109 
+Child 1: my value is 200 and my index is 110 
+Child 1: my value is 201 and my index is 111 
+Child 1: my value is 202 and my index is 112 
+Child 1: my value is 203 and my index is 113 
+Child 1: my value is 204 and my index is 114 
+Child 1: my value is 205 and my index is 115 
+Child 1: my value is 206 and my index is 116 
+Child 1: my value is 207 and my index is 117 
+Child 1: my value is 208 and my index is 118 
+Child 1: my value is 209 and my index is 119 
+Child 1: my value is 210 and my index is 120 
+Child 1: my value is 211 and my index is 121 
+Child 1: my value is 212 and my index is 122 
+Child 1: my value is 213 and my index is 123 
+Child 1: my value is 214 and my index is 124 
+Child 1: my value is 215 and my index is 125 
+Child 1: my value is 216 and my index is 126 
+Child 1: my value is 217 and my index is 127 
+Child 1: my value is 218 and my index is 128 
+Child 1: my value is 219 and my index is 129 
+Child 1: my value is 220 and my index is 130 
+Child 1: my value is 221 and my index is 131 
+Child 1: my value is 222 and my index is 132 
+Child 1: my value is 223 and my index is 133 
+Child 1: my value is 224 and my index is 134 
+Child 1: my value is 225 and my index is 135 
+Child 1: my value is 226 and my index is 136 
+Child 1: my value is 227 and my index is 137 
+Child 1: my value is 228 and my index is 138 
+Child 1: my value is 229 and my index is 139 
+Child 1: my value is 230 and my index is 140 
+Child 1: my value is 231 and my index is 141 
+Child 1: my value is 232 and my index is 142 
+Child 1: my value is 233 and my index is 143 
+Child 1: my value is 234 and my index is 144 
+Child 1: my value is 235 and my index is 145 
+Child 1: my value is 236 and my index is 146 
+Child 1: my value is 237 and my index is 147 
+Child 1: my value is 238 and my index is 148 
+Child 1: my value is 239 and my index is 149 
+Child 1: my value is 240 and my index is 150 
+Child 1: my value is 241 and my index is 151 
+Child 1: my value is 242 and my index is 152 
+Child 1: my value is 243 and my index is 153 
+Child 1: my value is 244 and my index is 154 
+Child 1: my value is 245 and my index is 155 
+Child 1: my value is 246 and my index is 156 
+Child 1: my value is 247 and my index is 157 
+Child 1: my value is 248 and my index is 158 
+Child 1: my value is 249 and my index is 159 
+Child 1: my value is 250 and my index is 160 
+Child 1: my value is 251 and my index is 161 
+Child 1: my value is 252 and my index is 162 
+Child 1: my value is 253 and my index is 163 
+Child 1: my value is 254 and my index is 164 
+Child 1: my value is 255 and my index is 165 
+Child 1: my value is 256 and my index is 166 
+Child 1: my value is 257 and my index is 167 
+Child 1: my value is 258 and my index is 168 
+Child 1: my value is 259 and my index is 169 
+Child 1: my value is 260 and my index is 170 
+Child 1: my value is 261 and my index is 171 
+Child 1: my value is 262 and my index is 172 
+Child 1: my value is 263 and my index is 173 
+Child 1: my value is 264 and my index is 174 
+Child 1: my value is 265 and my index is 175 
+Child 1: my value is 266 and my index is 176 
+Child 1: my value is 267 and my index is 177 
+Child 1: my value is 268 and my index is 178 
+Child 1: my value is 269 and my index is 179 
+Child 1: my value is 270 and my index is 180 
+Child 1: my value is 271 and my index is 181 
+Child 1: my value is 272 and my index is 182 
+Child 1: my value is 273 and my index is 183 
+Child 1: my value is 274 and my index is 184 
+Child 1: my value is 275 and my index is 185 
+Child 1: my value is 276 and my index is 186 
+Child 1: my value is 277 and my index is 187 
+Child 1: my value is 278 and my index is 188 
+Child 1: my value is 279 and my index is 189 
+Child 1: my value is 280 and my index is 190 
+Child 1: my value is 281 and my index is 191 
+Child 1: my value is 282 and my index is 192 
+Child 1: my value is 283 and my index is 193 
+Child 1: my value is 284 and my index is 194 
+Child 1: my value is 285 and my index is 195 
+Child 1: my value is 286 and my index is 196 
+Child 1: my value is 287 and my index is 197 
+Child 1: my value is 288 and my index is 198 
+Child 1: my value is 289 and my index is 199 
+Child 1: my value is 290 and my index is 200 
+Child 1: my value is 291 and my index is 201 
+Child 1: my value is 292 and my index is 202 
+Child 1: my value is 293 and my index is 203 
+Child 1: my value is 294 and my index is 204 
+Child 1: my value is 295 and my index is 205 
+Child 1: my value is 296 and my index is 206 
+Child 1: my value is 297 and my index is 207 
+Child 1: my value is 298 and my index is 208 
+Child 1: my value is 299 and my index is 209 
+Child 1: my value is 300 and my index is 210 
+Child 1: my value is 301 and my index is 211 
+Child 1: my value is 302 and my index is 212 
+Child 1: my value is 303 and my index is 213 
+Child 1: my value is 304 and my index is 214 
+Child 1: my value is 305 and my index is 215 
+Child 1: my value is 306 and my index is 216 
+Child 1: my value is 307 and my index is 217 
+Child 1: my value is 308 and my index is 218 
+Child 1: my value is 309 and my index is 219 
+Child 1: my value is 310 and my index is 220 
+Child 1: my value is 311 and my index is 221 
+Child 1: my value is 312 and my index is 222 
+Child 1: my value is 313 and my index is 223 
+Child 1: my value is 314 and my index is 224 
+Child 1: my value is 315 and my index is 225 
+Child 1: my value is 316 and my index is 226 
+Child 1: my value is 317 and my index is 227 
+Child 1: my value is 318 and my index is 228 
+Child 1: my value is 319 and my index is 229 
+Child 1: my value is 320 and my index is 230 
+Child 1: my value is 321 and my index is 231 
+Child 1: my value is 322 and my index is 232 
+Child 1: my value is 323 and my index is 233 
+Child 1: my value is 324 and my index is 234 
+Child 1: my value is 325 and my index is 235 
+Child 1: my value is 326 and my index is 236 
+Child 1: my value is 327 and my index is 237 
+Child 1: my value is 328 and my index is 238 
+Child 1: my value is 329 and my index is 239 
+Child 1: my value is 330 and my index is 240 
+Child 1: my value is 331 and my index is 241 
+Child 1: my value is 332 and my index is 242 
+Child 1: my value is 333 and my index is 243 
+Child 1: my value is 334 and my index is 244 
+Child 1: my value is 335 and my index is 245 
+Child 1: my value is 336 and my index is 246 
+Child 1: my value is 337 and my index is 247 
+Child 1: my value is 338 and my index is 248 
+Child 1: my value is 339 and my index is 249 
+Child 1: my value is 340 and my index is 250 
+Child 1: my value is 341 and my index is 251 
+Child 1: my value is 342 and my index is 252 
+Child 1: my value is 343 and my index is 253 
+Child 1: my value is 344 and my index is 254 
+Child 1: my value is 345 and my index is 255 
+Child 1: my value is 346 and my index is 256 
+Child 1: my value is 347 and my index is 257 
+Child 1: my value is 348 and my index is 258 
+Child 1: my value is 349 and my index is 259 
+Child 1: my value is 350 and my index is 260 
+Child 1: my value is 351 and my index is 261 
+Child 1: my value is 352 and my index is 262 
+Child 1: my value is 353 and my index is 263 
+Child 1: my value is 354 and my index is 264 
+Child 1: my value is 355 and my index is 265 
+Child 1: my value is 356 and my index is 266 
+Child 1: my value is 357 and my index is 267 
+Child 1: my value is 358 and my index is 268 
+Child 1: my value is 359 and my index is 269 
+Child 1: my value is 360 and my index is 270 
+Child 1: my value is 361 and my index is 271 
+Child 1: my value is 362 and my index is 272 
+Child 1: my value is 363 and my index is 273 
+Child 1: my value is 364 and my index is 274 
+Child 1: my value is 365 and my index is 275 
+Child 1: my value is 366 and my index is 276 
+Child 1: my value is 367 and my index is 277 
+Child 1: my value is 368 and my index is 278 
+Child 1: my value is 369 and my index is 279 
+Child 1: my value is 370 and my index is 280 
+Child 1: my value is 371 and my index is 281 
+Child 1: my value is 372 and my index is 282 
+Child 1: my value is 373 and my index is 283 
+Child 1: my value is 374 and my index is 284 
+Child 1: my value is 375 and my index is 285 
+Child 1: my value is 376 and my index is 286 
+Child 1: my value is 377 and my index is 287 
+Child 1: my value is 378 and my index is 288 
+Child 1: my value is 379 and my index is 289 
+Child 1: my value is 380 and my index is 290 
+Child 1: my value is 381 and my index is 291 
+Child 1: my value is 382 and my index is 292 
+Child 1: my value is 383 and my index is 293 
+Child 1: my value is 384 and my index is 294 
+Child 1: my value is 385 and my index is 295 
+Child 1: my value is 386 and my index is 296 
+Child 1: my value is 387 and my index is 297 
+Child 1: my value is 388 and my index is 298 
+Child 1: my value is 389 and my index is 299 
+Child 1: my value is 390 and my index is 300 
+Child 1: my value is 391 and my index is 301 
+Child 1: my value is 392 and my index is 302 
+Child 1: my value is 393 and my index is 303 
+Child 1: my value is 394 and my index is 304 
+Child 1: my value is 395 and my index is 305 
+Child 1: my value is 396 and my index is 306 
+Child 1: my value is 397 and my index is 307 
+Child 1: my value is 398 and my index is 308 
+Child 1: my value is 399 and my index is 309 
+Child 1: my value is 400 and my index is 310 
+Child 1: my value is 401 and my index is 311 
+Child 1: my value is 402 and my index is 312 
+Child 1: my value is 403 and my index is 313 
+Child 1: my value is 404 and my index is 314 
+Child 1: my value is 405 and my index is 315 
+Child 1: my value is 406 and my index is 316 
+Child 1: my value is 407 and my index is 317 
+Child 1: my value is 408 and my index is 318 
+Child 1: my value is 409 and my index is 319 
+Child 1: my value is 410 and my index is 320 
+Child 1: my value is 411 and my index is 321 
+Child 1: my value is 412 and my index is 322 
+Child 1: my value is 413 and my index is 323 
+Child 1: my value is 414 and my index is 324 
+Child 1: my value is 415 and my index is 325 
+Child 1: my value is 416 and my index is 326 
+Child 1: my value is 417 and my index is 327 
+Child 1: my value is 418 and my index is 328 
+Child 1: my value is 419 and my index is 329 
+Child 1: my value is 420 and my index is 330 
+Child 1: my value is 421 and my index is 331 
+Child 1: my value is 422 and my index is 332 
+Child 1: my value is 423 and my index is 333 
+Child 1: my value is 424 and my index is 334 
+Child 1: my value is 425 and my index is 335 
+Child 1: my value is 426 and my index is 336 
+Child 1: my value is 427 and my index is 337 
+Child 1: my value is 428 and my index is 338 
+Child 1: my value is 429 and my index is 339 
+Child 1: my value is 430 and my index is 340 
+Child 1: my value is 431 and my index is 341 
+Child 1: my value is 432 and my index is 342 
+Child 1: my value is 433 and my index is 343 
+Child 1: my value is 434 and my index is 344 
+Child 1: my value is 435 and my index is 345 
+Child 1: my value is 436 and my index is 346 
+Child 1: my value is 437 and my index is 347 
+Child 1: my value is 438 and my index is 348 
+Child 1: my value is 439 and my index is 349 
+Child 1: my value is 440 and my index is 350 
+Child 1: my value is 441 and my index is 351 
+Child 1: my value is 442 and my index is 352 
+Child 1: my value is 443 and my index is 353 
+Child 1: my value is 444 and my index is 354 
+Child 1: my value is 445 and my index is 355 
+Child 1: my value is 446 and my index is 356 
+Child 1: my value is 447 and my index is 357 
+Child 1: my value is 448 and my index is 358 
+Child 1: my value is 449 and my index is 359 
+Child 1: my value is 450 and my index is 360 
+Child 1: my value is 451 and my index is 361 
+Child 1: my value is 452 and my index is 362 
+Child 1: my value is 453 and my index is 363 
+Child 1: my value is 454 and my index is 364 
+Child 1: my value is 455 and my index is 365 
+Child 1: my value is 456 and my index is 366 
+Child 1: my value is 457 and my index is 367 
+Child 1: my value is 458 and my index is 368 
+Child 1: my value is 459 and my index is 369 
+Child 1: my value is 460 and my index is 370 
+Child 1: my value is 461 and my index is 371 
+Child 1: my value is 462 and my index is 372 
+Child 1: my value is 463 and my index is 373 
+Child 1: my value is 464 and my index is 374 
+Child 1: my value is 465 and my index is 375 
+Child 1: my value is 466 and my index is 376 
+Child 1: my value is 467 and my index is 377 
+Child 1: my value is 468 and my index is 378 
+Child 1: my value is 469 and my index is 379 
+Child 1: my value is 470 and my index is 380 
+Child 1: my value is 471 and my index is 381 
+Child 1: my value is 472 and my index is 382 
+Child 1: my value is 473 and my index is 383 
+Child 1: my value is 474 and my index is 384 
+Child 1: my value is 475 and my index is 385 
+Child 1: my value is 476 and my index is 386 
+Child 1: my value is 477 and my index is 387 
+Child 1: my value is 478 and my index is 388 
+Child 1: my value is 479 and my index is 389 
+Child 1: my value is 480 and my index is 390 
+Child 1: my value is 481 and my index is 391 
+Child 1: my value is 482 and my index is 392 
+Child 1: my value is 483 and my index is 393 
+Child 1: my value is 484 and my index is 394 
+Child 1: my value is 485 and my index is 395 
+Child 1: my value is 486 and my index is 396 
+Child 1: my value is 487 and my index is 397 
+Child 1: my value is 488 and my index is 398 
+Child 1: my value is 489 and my index is 399 
+Child 1: my value is 490 and my index is 400 
+Child 1: my value is 491 and my index is 401 
+Child 1: my value is 492 and my index is 402 
+Child 1: my value is 493 and my index is 403 
+Child 1: my value is 494 and my index is 404 
+Child 1: my value is 495 and my index is 405 
+Child 1: my value is 496 and my index is 406 
+Child 1: my value is 497 and my index is 407 
+Child 1: my value is 498 and my index is 408 
+Child 1: my value is 499 and my index is 409 
+Child 1: my value is 500 and my index is 410 
+Child 1: my value is 501 and my index is 411 
+Child 1: my value is 502 and my index is 412 
+Child 1: my value is 503 and my index is 413 
+Child 1: my value is 504 and my index is 414 
+Child 1: my value is 505 and my index is 415 
+Child 1: my value is 506 and my index is 416 
+Child 1: my value is 507 and my index is 417 
+Child 1: my value is 508 and my index is 418 
+Child 1: my value is 509 and my index is 419 
+Child 1: my value is 510 and my index is 420 
+Child 1: my value is 511 and my index is 421 
+Child 1: my value is 512 and my index is 422 
+Child 1: my value is 513 and my index is 423 
+Child 1: my value is 514 and my index is 424 
+Child 1: my value is 515 and my index is 425 
+Child 1: my value is 516 and my index is 426 
+Child 1: my value is 517 and my index is 427 
+Child 1: my value is 518 and my index is 428 
+Child 1: my value is 519 and my index is 429 
+Child 1: my value is 520 and my index is 430 
+Child 1: my value is 521 and my index is 431 
+Child 1: my value is 522 and my index is 432 
+Child 1: my value is 523 and my index is 433 
+Child 1: my value is 524 and my index is 434 
+Child 1: my value is 525 and my index is 435 
+Child 1: my value is 526 and my index is 436 
+Child 1: my value is 527 and my index is 437 
+Child 1: my value is 528 and my index is 438 
+Child 1: my value is 529 and my index is 439 
+Child 1: my value is 530 and my index is 440 
+Child 1: my value is 531 and my index is 441 
+Child 1: my value is 532 and my index is 442 
+Child 1: my value is 533 and my index is 443 
+Child 1: my value is 534 and my index is 444 
+Child 1: my value is 535 and my index is 445 
+Child 1: my value is 536 and my index is 446 
+Child 1: my value is 537 and my index is 447 
+Child 1: my value is 538 and my index is 448 
+Child 1: my value is 539 and my index is 449 
+Child 1: my value is 540 and my index is 450 
+Child 1: my value is 541 and my index is 451 
+Child 1: my value is 542 and my index is 452 
+Child 1: my value is 543 and my index is 453 
+Child 1: my value is 544 and my index is 454 
+Child 1: my value is 545 and my index is 455 
+Child 1: my value is 546 and my index is 456 
+Child 1: my value is 547 and my index is 457 
+Child 1: my value is 548 and my index is 458 
+Child 1: my value is 549 and my index is 459 
+Child 1: my value is 550 and my index is 460 
+Child 1: my value is 551 and my index is 461 
+Child 1: my value is 552 and my index is 462 
+Child 1: my value is 553 and my index is 463 
+Child 1: my value is 554 and my index is 464 
+Child 1: my value is 555 and my index is 465 
+Child 1: my value is 556 and my index is 466 
+Child 1: my value is 557 and my index is 467 
+Child 1: my value is 558 and my index is 468 
+Child 1: my value is 559 and my index is 469 
+Child 1: my value is 560 and my index is 470 
+Child 1: my value is 561 and my index is 471 
+Child 1: my value is 562 and my index is 472 
+Child 1: my value is 563 and my index is 473 
+Child 1: my value is 564 and my index is 474 
+Child 1: my value is 565 and my index is 475 
+Child 1: my value is 566 and my index is 476 
+Child 1: my value is 567 and my index is 477 
+Child 1: my value is 568 and my index is 478 
+Child 1: my value is 569 and my index is 479 
+Child 1: my value is 570 and my index is 480 
+Child 1: my value is 571 and my index is 481 
+Child 1: my value is 572 and my index is 482 
+Child 1: my value is 573 and my index is 483 
+Child 1: my value is 574 and my index is 484 
+Child 1: my value is 575 and my index is 485 
+Child 1: my value is 576 and my index is 486 
+Child 1: my value is 577 and my index is 487 
+Child 1: my value is 578 and my index is 488 
+Child 1: my value is 579 and my index is 489 
+Child 1: my value is 580 and my index is 490 
+Child 1: my value is 581 and my index is 491 
+Child 1: my value is 582 and my index is 492 
+Child 1: my value is 583 and my index is 493 
+Child 1: my value is 584 and my index is 494 
+Child 1: my value is 585 and my index is 495 
+Child 1: my value is 586 and my index is 496 
+Child 1: my value is 587 and my index is 497 
+Child 1: my value is 588 and my index is 498 
+Child 1: my value is 589 and my index is 499 
+Child 1: my value is 590 and my index is 500 
+Child 1: my value is 591 and my index is 501 
+Child 1: my value is 592 and my index is 502 
+Child 1: my value is 593 and my index is 503 
+Child 1: my value is 594 and my index is 504 
+Child 1: my value is 595 and my index is 505 
+Child 1: my value is 596 and my index is 506 
+Child 1: my value is 597 and my index is 507 
+Child 1: my value is 598 and my index is 508 
+Child 1: my value is 599 and my index is 509 
+Child 1: my value is 600 and my index is 510 
+Child 1: my value is 601 and my index is 511 
+Child 1: my value is 602 and my index is 512 
+Child 1: my value is 603 and my index is 513 
+Child 1: my value is 604 and my index is 514 
+Child 1: my value is 605 and my index is 515 
+Child 1: my value is 606 and my index is 516 
+Child 1: my value is 607 and my index is 517 
+Child 1: my value is 608 and my index is 518 
+Child 1: my value is 609 and my index is 519 
+Child 1: my value is 610 and my index is 520 
+Child 1: my value is 611 and my index is 521 
+Child 1: my value is 612 and my index is 522 
+Child 1: my value is 613 and my index is 523 
+Child 1: my value is 614 and my index is 524 
+Child 1: my value is 615 and my index is 525 
+Child 1: my value is 616 and my index is 526 
+Child 1: my value is 617 and my index is 527 
+Child 1: my value is 618 and my index is 528 
+Child 1: my value is 619 and my index is 529 
+Child 1: my value is 620 and my index is 530 
+Child 1: my value is 621 and my index is 531 
+Child 1: my value is 622 and my index is 532 
+Child 1: my value is 623 and my index is 533 
+Child 1: my value is 624 and my index is 534 
+Child 1: my value is 625 and my index is 535 
+Child 1: my value is 626 and my index is 536 
+Child 1: my value is 627 and my index is 537 
+Child 1: my value is 628 and my index is 538 
+Child 1: my value is 629 and my index is 539 
+Child 1: my value is 630 and my index is 540 
+Child 1: my value is 631 and my index is 541 
+Child 1: my value is 632 and my index is 542 
+Child 1: my value is 633 and my index is 543 
+Child 1: my value is 634 and my index is 544 
+Child 1: my value is 635 and my index is 545 
+Child 1: my value is 636 and my index is 546 
+Child 1: my value is 637 and my index is 547 
+Child 1: my value is 638 and my index is 548 
+Child 1: my value is 639 and my index is 549 
+Child 1: my value is 640 and my index is 550 
+Child 1: my value is 641 and my index is 551 
+Child 1: my value is 642 and my index is 552 
+Child 1: my value is 643 and my index is 553 
+Child 1: my value is 644 and my index is 554 
+Child 1: my value is 645 and my index is 555 
+Child 1: my value is 646 and my index is 556 
+Child 1: my value is 647 and my index is 557 
+Child 1: my value is 648 and my index is 558 
+Child 1: my value is 649 and my index is 559 
+Child 1: my value is 650 and my index is 560 
+Child 1: my value is 651 and my index is 561 
+Child 1: my value is 652 and my index is 562 
+Child 1: my value is 653 and my index is 563 
+Child 1: my value is 654 and my index is 564 
+Child 1: my value is 655 and my index is 565 
+Child 1: my value is 656 and my index is 566 
+Child 1: my value is 657 and my index is 567 
+Child 1: my value is 658 and my index is 568 
+Child 1: my value is 659 and my index is 569 
+Child 1: my value is 660 and my index is 570 
+Child 1: my value is 661 and my index is 571 
+Child 1: my value is 662 and my index is 572 
+Child 1: my value is 663 and my index is 573 
+Child 1: my value is 664 and my index is 574 
+Child 1: my value is 665 and my index is 575 
+Child 1: my value is 666 and my index is 576 
+Child 1: my value is 667 and my index is 577 
+Child 1: my value is 668 and my index is 578 
+Child 1: my value is 669 and my index is 579 
+Child 1: my value is 670 and my index is 580 
+Child 1: my value is 671 and my index is 581 
+Child 1: my value is 672 and my index is 582 
+Child 1: my value is 673 and my index is 583 
+Child 1: my value is 674 and my index is 584 
+Child 1: my value is 675 and my index is 585 
+Child 1: my value is 676 and my index is 586 
+Child 1: my value is 677 and my index is 587 
+Child 1: my value is 678 and my index is 588 
+Child 1: my value is 679 and my index is 589 
+Child 1: my value is 680 and my index is 590 
+Child 1: my value is 681 and my index is 591 
+Child 1: my value is 682 and my index is 592 
+Child 1: my value is 683 and my index is 593 
+Child 1: my value is 684 and my index is 594 
+Child 1: my value is 685 and my index is 595 
+Child 1: my value is 686 and my index is 596 
+Child 1: my value is 687 and my index is 597 
+Child 1: my value is 688 and my index is 598 
+Child 1: my value is 689 and my index is 599 
+Child 1: my value is 690 and my index is 600 
+Child 1: my value is 691 and my index is 601 
+Child 1: my value is 692 and my index is 602 
+Child 1: my value is 693 and my index is 603 
+Child 1: my value is 694 and my index is 604 
+Child 1: my value is 695 and my index is 605 
+Child 1: my value is 696 and my index is 606 
+Child 1: my value is 697 and my index is 607 
+Child 1: my value is 698 and my index is 608 
+Child 1: my value is 699 and my index is 609 
+Child 1: my value is 700 and my index is 610 
+Child 1: my value is 701 and my index is 611 
+Child 1: my value is 702 and my index is 612 
+Child 1: my value is 703 and my index is 613 
+Child 1: my value is 704 and my index is 614 
+Child 1: my value is 705 and my index is 615 
+Child 1: my value is 706 and my index is 616 
+Child 1: my value is 707 and my index is 617 
+Child 1: my value is 708 and my index is 618 
+Child 1: my value is 709 and my index is 619 
+Child 1: my value is 710 and my index is 620 
+Child 1: my value is 711 and my index is 621 
+Child 1: my value is 712 and my index is 622 
+Child 1: my value is 713 and my index is 623 
+Child 1: my value is 714 and my index is 624 
+Child 1: my value is 715 and my index is 625 
+Child 1: my value is 716 and my index is 626 
+Child 1: my value is 717 and my index is 627 
+Child 1: my value is 718 and my index is 628 
+Child 1: my value is 719 and my index is 629 
+Child 1: my value is 720 and my index is 630 
+Child 1: my value is 721 and my index is 631 
+Child 1: my value is 722 and my index is 632 
+Child 1: my value is 723 and my index is 633 
+Child 1: my value is 724 and my index is 634 
+Child 1: my value is 725 and my index is 635 
+Child 1: my value is 726 and my index is 636 
+Child 1: my value is 727 and my index is 637 
+Child 1: my value is 728 and my index is 638 
+Child 1: my value is 729 and my index is 639 
+Child 1: my value is 730 and my index is 640 
+Child 1: my value is 731 and my index is 641 
+Child 1: my value is 732 and my index is 642 
+Child 1: my value is 733 and my index is 643 
+Child 1: my value is 734 and my index is 644 
+Child 1: my value is 735 and my index is 645 
+Child 1: my value is 736 and my index is 646 
+Child 1: my value is 737 and my index is 647 
+Child 1: my value is 738 and my index is 648 
+Child 1: my value is 739 and my index is 649 
+Child 1: my value is 740 and my index is 650 
+Child 1: my value is 741 and my index is 651 
+Child 1: my value is 742 and my index is 652 
+Child 1: my value is 743 and my index is 653 
+Child 1: my value is 744 and my index is 654 
+Child 1: my value is 745 and my index is 655 
+Child 1: my value is 746 and my index is 656 
+Child 1: my value is 747 and my index is 657 
+Child 1: my value is 748 and my index is 658 
+Child 1: my value is 749 and my index is 659 
+Child 1: my value is 750 and my index is 660 
+Child 1: my value is 751 and my index is 661 
+Child 1: my value is 752 and my index is 662 
+Child 1: my value is 753 and my index is 663 
+Child 1: my value is 754 and my index is 664 
+Child 1: my value is 755 and my index is 665 
+Child 1: my value is 756 and my index is 666 
+Child 1: my value is 757 and my index is 667 
+Child 1: my value is 758 and my index is 668 
+Child 1: my value is 759 and my index is 669 
+Child 1: my value is 760 and my index is 670 
+Child 1: my value is 761 and my index is 671 
+Child 1: my value is 762 and my index is 672 
+Child 1: my value is 763 and my index is 673 
+Child 1: my value is 764 and my index is 674 
+Child 1: my value is 765 and my index is 675 
+Child 1: my value is 766 and my index is 676 
+Child 1: my value is 767 and my index is 677 
+Child 1: my value is 768 and my index is 678 
+Child 1: my value is 769 and my index is 679 
+Child 1: my value is 770 and my index is 680 
+Child 1: my value is 771 and my index is 681 
+Child 1: my value is 772 and my index is 682 
+Child 1: my value is 773 and my index is 683 
+Child 1: my value is 774 and my index is 684 
+Child 1: my value is 775 and my index is 685 
+Child 1: my value is 776 and my index is 686 
+Child 1: my value is 777 and my index is 687 
+Child 1: my value is 778 and my index is 688 
+Child 1: my value is 779 and my index is 689 
+Child 1: my value is 780 and my index is 690 
+Child 1: my value is 781 and my index is 691 
+Child 1: my value is 782 and my index is 692 
+Child 1: my value is 783 and my index is 693 
+Child 1: my value is 784 and my index is 694 
+Child 1: my value is 785 and my index is 695 
+Child 1: my value is 786 and my index is 696 
+Child 1: my value is 787 and my index is 697 
+Child 1: my value is 788 and my index is 698 
+Child 1: my value is 789 and my index is 699 
+Child 1: my value is 790 and my index is 700 
+Child 1: my value is 791 and my index is 701 
+Child 1: my value is 792 and my index is 702 
+Child 1: my value is 793 and my index is 703 
+Child 1: my value is 794 and my index is 704 
+Child 1: my value is 795 and my index is 705 
+Child 1: my value is 796 and my index is 706 
+Child 1: my value is 797 and my index is 707 
+Child 1: my value is 798 and my index is 708 
+Child 1: my value is 799 and my index is 709 
+Child 1: my value is 800 and my index is 710 
+Child 1: my value is 801 and my index is 711 
+Child 1: my value is 802 and my index is 712 
+Child 1: my value is 803 and my index is 713 
+Child 1: my value is 804 and my index is 714 
+Child 1: my value is 805 and my index is 715 
+Child 1: my value is 806 and my index is 716 
+Child 1: my value is 807 and my index is 717 
+Child 1: my value is 808 and my index is 718 
+Child 1: my value is 809 and my index is 719 
+Child 1: my value is 810 and my index is 720 
+Child 1: my value is 811 and my index is 721 
+Child 1: my value is 812 and my index is 722 
+Child 1: my value is 813 and my index is 723 
+Child 1: my value is 814 and my index is 724 
+Child 1: my value is 815 and my index is 725 
+Child 1: my value is 816 and my index is 726 
+Child 1: my value is 817 and my index is 727 
+Child 1: my value is 818 and my index is 728 
+Child 1: my value is 819 and my index is 729 
+Child 1: my value is 820 and my index is 730 
+Child 1: my value is 821 and my index is 731 
+Child 1: my value is 822 and my index is 732 
+Child 1: my value is 823 and my index is 733 
+Child 1: my value is 824 and my index is 734 
+Child 1: my value is 825 and my index is 735 
+Child 1: my value is 826 and my index is 736 
+Child 1: my value is 827 and my index is 737 
+Child 1: my value is 828 and my index is 738 
+Child 1: my value is 829 and my index is 739 
+Child 1: my value is 830 and my index is 740 
+Child 1: my value is 831 and my index is 741 
+Child 1: my value is 832 and my index is 742 
+Child 1: my value is 833 and my index is 743 
+Child 1: my value is 834 and my index is 744 
+Child 1: my value is 835 and my index is 745 
+Child 1: my value is 836 and my index is 746 
+Child 1: my value is 837 and my index is 747 
+Child 1: my value is 838 and my index is 748 
+Child 1: my value is 839 and my index is 749 
+Child 1: my value is 840 and my index is 750 
+Child 1: my value is 841 and my index is 751 
+Child 1: my value is 842 and my index is 752 
+Child 1: my value is 843 and my index is 753 
+Child 1: my value is 844 and my index is 754 
+Child 1: my value is 845 and my index is 755 
+Child 1: my value is 846 and my index is 756 
+Child 1: my value is 847 and my index is 757 
+Child 1: my value is 848 and my index is 758 
+Child 1: my value is 849 and my index is 759 
+Child 1: my value is 850 and my index is 760 
+Child 1: my value is 851 and my index is 761 
+Child 1: my value is 852 and my index is 762 
+Child 1: my value is 853 and my index is 763 
+Child 1: my value is 854 and my index is 764 
+Child 1: my value is 855 and my index is 765 
+Child 1: my value is 856 and my index is 766 
+Child 1: my value is 857 and my index is 767 
+Child 1: my value is 858 and my index is 768 
+Child 1: my value is 859 and my index is 769 
+Child 1: my value is 860 and my index is 770 
+Child 1: my value is 861 and my index is 771 
+Child 1: my value is 862 and my index is 772 
+Child 1: my value is 863 and my index is 773 
+Child 1: my value is 864 and my index is 774 
+Child 1: my value is 865 and my index is 775 
+Child 1: my value is 866 and my index is 776 
+Child 1: my value is 867 and my index is 777 
+Child 1: my value is 868 and my index is 778 
+Child 1: my value is 869 and my index is 779 
+Child 1: my value is 870 and my index is 780 
+Child 1: my value is 871 and my index is 781 
+Child 1: my value is 872 and my index is 782 
+Child 1: my value is 873 and my index is 783 
+Child 1: my value is 874 and my index is 784 
+Child 1: my value is 875 and my index is 785 
+Child 1: my value is 876 and my index is 786 
+Child 1: my value is 877 and my index is 787 
+Child 1: my value is 878 and my index is 788 
+Child 1: my value is 879 and my index is 789 
+Child 1: my value is 880 and my index is 790 
+Child 1: my value is 881 and my index is 791 
+Child 1: my value is 882 and my index is 792 
+Child 1: my value is 883 and my index is 793 
+Child 1: my value is 884 and my index is 794 
+Child 1: my value is 885 and my index is 795 
+Child 1: my value is 886 and my index is 796 
+Child 1: my value is 887 and my index is 797 
+Child 1: my value is 888 and my index is 798 
+Child 1: my value is 889 and my index is 799 
+Child 1: my value is 890 and my index is 800 
+Child 1: my value is 891 and my index is 801 
+Child 1: my value is 892 and my index is 802 
+Child 1: my value is 893 and my index is 803 
+Child 1: my value is 894 and my index is 804 
+Child 1: my value is 895 and my index is 805 
+Child 1: my value is 896 and my index is 806 
+Child 1: my value is 897 and my index is 807 
+Child 1: my value is 898 and my index is 808 
+Child 1: my value is 899 and my index is 809 
+Child 1: my value is 900 and my index is 810 
+Child 1: my value is 901 and my index is 811 
+Child 1: my value is 902 and my index is 812 
+Child 1: my value is 903 and my index is 813 
+Child 1: my value is 904 and my index is 814 
+Child 1: my value is 905 and my index is 815 
+Child 1: my value is 906 and my index is 816 
+Child 1: my value is 907 and my index is 817 
+Child 1: my value is 908 and my index is 818 
+Child 1: my value is 909 and my index is 819 
+Child 1: my value is 910 and my index is 820 
+Child 1: my value is 911 and my index is 821 
+Child 1: my value is 912 and my index is 822 
+Child 1: my value is 913 and my index is 823 
+Child 1: my value is 914 and my index is 824 
+Child 1: my value is 915 and my index is 825 
+Child 1: my value is 916 and my index is 826 
+Child 1: my value is 917 and my index is 827 
+Child 1: my value is 918 and my index is 828 
+Child 1: my value is 919 and my index is 829 
+Child 1: my value is 920 and my index is 830 
+Child 1: my value is 921 and my index is 831 
+Child 1: my value is 922 and my index is 832 
+Child 1: my value is 923 and my index is 833 
+Child 1: my value is 924 and my index is 834 
+Child 1: my value is 925 and my index is 835 
+Child 1: my value is 926 and my index is 836 
+Child 1: my value is 927 and my index is 837 
+Child 1: my value is 928 and my index is 838 
+Child 1: my value is 929 and my index is 839 
+Child 1: my value is 930 and my index is 840 
+Child 1: my value is 931 and my index is 841 
+Child 1: my value is 932 and my index is 842 
+Child 1: my value is 933 and my index is 843 
+Child 1: my value is 934 and my index is 844 
+Child 1: my value is 935 and my index is 845 
+Child 1: my value is 936 and my index is 846 
+Child 1: my value is 937 and my index is 847 
+Child 1: my value is 938 and my index is 848 
+Child 1: my value is 939 and my index is 849 
+Child 1: my value is 940 and my index is 850 
+Child 1: my value is 941 and my index is 851 
+Child 1: my value is 942 and my index is 852 
+Child 1: my value is 943 and my index is 853 
+Child 1: my value is 944 and my index is 854 
+Child 1: my value is 945 and my index is 855 
+Child 1: my value is 946 and my index is 856 
+Child 1: my value is 947 and my index is 857 
+Child 1: my value is 948 and my index is 858 
+Child 1: my value is 949 and my index is 859 
+Child 1: my value is 950 and my index is 860 
+Child 1: my value is 951 and my index is 861 
+Child 1: my value is 952 and my index is 862 
+Child 1: my value is 953 and my index is 863 
+Child 1: my value is 954 and my index is 864 
+Child 1: my value is 955 and my index is 865 
+Child 1: my value is 956 and my index is 866 
+Child 1: my value is 957 and my index is 867 
+Child 1: my value is 958 and my index is 868 
+Child 1: my value is 959 and my index is 869 
+Child 1: my value is 960 and my index is 870 
+Child 1: my value is 961 and my index is 871 
+Child 1: my value is 962 and my index is 872 
+Child 1: my value is 963 and my index is 873 
+Child 1: my value is 964 and my index is 874 
+Child 1: my value is 965 and my index is 875 
+Child 1: my value is 966 and my index is 876 
+Child 1: my value is 967 and my index is 877 
+Child 1: my value is 968 and my index is 878 
+Child 1: my value is 969 and my index is 879 
+Child 1: my value is 970 and my index is 880 
+Child 1: my value is 971 and my index is 881 
+Child 1: my value is 972 and my index is 882 
+Child 1: my value is 973 and my index is 883 
+Child 1: my value is 974 and my index is 884 
+Child 1: my value is 975 and my index is 885 
+Child 1: my value is 976 and my index is 886 
+Child 1: my value is 977 and my index is 887 
+Child 1: my value is 978 and my index is 888 
+Child 1: my value is 979 and my index is 889 
+Child 1: my value is 980 and my index is 890 
+Child 1: my value is 981 and my index is 891 
+Child 1: my value is 982 and my index is 892 
+Child 1: my value is 983 and my index is 893 
+Child 1: my value is 984 and my index is 894 
+Child 1: my value is 985 and my index is 895 
+Child 1: my value is 986 and my index is 896 
+Child 1: my value is 987 and my index is 897 
+Child 1: my value is 988 and my index is 898 
+Child 1: my value is 989 and my index is 899 
+Child 1: my value is 990 and my index is 900 
+Child 1: my value is 991 and my index is 901 
+Child 1: my value is 992 and my index is 902 
+Child 1: my value is 993 and my index is 903 
+Child 1: my value is 994 and my index is 904 
+Child 1: my value is 995 and my index is 905 
+Child 1: my value is 996 and my index is 906 
+Child 1: my value is 997 and my index is 907 
+Child 1: my value is 998 and my index is 908 
+Child 1: my value is 999 and my index is 909 
+Child 1: my value is 1000 and my index is 910 
+Child 1: my value is 1001 and my index is 911 
+Child 1: my value is 1002 and my index is 912 
+Child 1: my value is 1003 and my index is 913 
+Child 1: my value is 1004 and my index is 914 
+Child 1: my value is 1005 and my index is 915 
+Child 1: my value is 1006 and my index is 916 
+Child 1: my value is 1007 and my index is 917 
+Child 1: my value is 1008 and my index is 918 
+Child 1: my value is 1009 and my index is 919 
+Child 1: my value is 1010 and my index is 920 
+Child 1: my value is 1011 and my index is 921 
+Child 1: my value is 1012 and my index is 922 
+Child 1: my value is 1013 and my index is 923 
+Child 1: my value is 1014 and my index is 924 
+Child 1: my value is 1015 and my index is 925 
+Child 1: my value is 1016 and my index is 926 
+Child 1: my value is 1017 and my index is 927 
+Child 1: my value is 1018 and my index is 928 
+Child 1: my value is 1019 and my index is 929 
+Child 1: my value is 1020 and my index is 930 
+Child 1: my value is 1021 and my index is 931 
+Child 1: my value is 1022 and my index is 932 
+Child 1: my value is 1023 and my index is 933 
+Child 1: my value is 1024 and my index is 934 
+Child 1: my value is 1025 and my index is 935 
+Child 1: my value is 1026 and my index is 936 
+Child 1: my value is 1027 and my index is 937 
+Child 1: my value is 1028 and my index is 938 
+Child 1: my value is 1029 and my index is 939 
+Child 1: my value is 1030 and my index is 940 
+Child 1: my value is 1031 and my index is 941 
+Child 1: my value is 1032 and my index is 942 
+Child 1: my value is 1033 and my index is 943 
+Child 1: my value is 1034 and my index is 944 
+Child 1: my value is 1035 and my index is 945 
+Child 1: my value is 1036 and my index is 946 
+Child 1: my value is 1037 and my index is 947 
+Child 1: my value is 1038 and my index is 948 
+Child 1: my value is 1039 and my index is 949 
+Child 1: my value is 1040 and my index is 950 
+Child 1: my value is 1041 and my index is 951 
+Child 1: my value is 1042 and my index is 952 
+Child 1: my value is 1043 and my index is 953 
+Child 1: my value is 1044 and my index is 954 
+Child 1: my value is 1045 and my index is 955 
+Child 1: my value is 1046 and my index is 956 
+Child 1: my value is 1047 and my index is 957 
+Child 1: my value is 1048 and my index is 958 
+Child 1: my value is 1049 and my index is 959 
+Child 1: my value is 1050 and my index is 960 
+Child 1: my value is 1051 and my index is 961 
+Child 1: my value is 1052 and my index is 962 
+Child 1: my value is 1053 and my index is 963 
+Child 1: my value is 1054 and my index is 964 
+Child 1: my value is 1055 and my index is 965 
+Child 1: my value is 1056 and my index is 966 
+Child 1: my value is 1057 and my index is 967 
+Child 1: my value is 1058 and my index is 968 
+Child 1: my value is 1059 and my index is 969 
+Child 1: my value is 1060 and my index is 970 
+Child 1: my value is 1061 and my index is 971 
+Child 1: my value is 1062 and my index is 972 
+Child 1: my value is 1063 and my index is 973 
+Child 1: my value is 1064 and my index is 974 
+Child 1: my value is 1065 and my index is 975 
+Child 1: my value is 1066 and my index is 976 
+Child 1: my value is 1067 and my index is 977 
+Child 1: my value is 1068 and my index is 978 
+Child 1: my value is 1069 and my index is 979 
+Child 1: my value is 1070 and my index is 980 
+Child 1: my value is 1071 and my index is 981 
+Child 1: my value is 1072 and my index is 982 
+Child 1: my value is 1073 and my index is 983 
+Child 1: my value is 1074 and my index is 984 
+Child 1: my value is 1075 and my index is 985 
+Child 1: my value is 1076 and my index is 986 
+Child 1: my value is 1077 and my index is 987 
+Child 1: my value is 1078 and my index is 988 
+Child 1: my value is 1079 and my index is 989 
+Child 1: my value is 1080 and my index is 990 
+Child 1: my value is 1081 and my index is 991 
+Child 1: my value is 1082 and my index is 992 
+Child 1: my value is 1083 and my index is 993 
+Child 1: my value is 1084 and my index is 994 
+Child 1: my value is 1085 and my index is 995 
+Child 1: my value is 1086 and my index is 996 
+Child 1: my value is 1087 and my index is 997 
+Child 1: my value is 1088 and my index is 998 
+Child 1: my value is 1089 and my index is 999 
+Child 1: my value is 1090 and my index is 1000 
+	Child 2: my value is 91 and my index is 1 
+	Child 2: my value is 92 and my index is 2 
+	Child 2: my value is 93 and my index is 3 
+	Child 2: my value is 94 and my index is 4 
+	Child 2: my value is 95 and my index is 5 
+	Child 2: my value is 96 and my index is 6 
+	Child 2: my value is 97 and my index is 7 
+	Child 2: my value is 98 and my index is 8 
+	Child 2: my value is 99 and my index is 9 
+	Child 2: my value is 100 and my index is 10 
+	Child 2: my value is 101 and my index is 11 
+	Child 2: my value is 102 and my index is 12 
+	Child 2: my value is 103 and my index is 13 
+	Child 2: my value is 104 and my index is 14 
+	Child 2: my value is 105 and my index is 15 
+	Child 2: my value is 106 and my index is 16 
+	Child 2: my value is 107 and my index is 17 
+	Child 2: my value is 108 and my index is 18 
+	Child 2: my value is 109 and my index is 19 
+	Child 2: my value is 110 and my index is 20 
+	Child 2: my value is 111 and my index is 21 
+	Child 2: my value is 112 and my index is 22 
+	Child 2: my value is 113 and my index is 23 
+	Child 2: my value is 114 and my index is 24 
+	Child 2: my value is 115 and my index is 25 
+	Child 2: my value is 116 and my index is 26 
+	Child 2: my value is 117 and my index is 27 
+	Child 2: my value is 118 and my index is 28 
+	Child 2: my value is 119 and my index is 29 
+	Child 2: my value is 120 and my index is 30 
+	Child 2: my value is 121 and my index is 31 
+	Child 2: my value is 122 and my index is 32 
+	Child 2: my value is 123 and my index is 33 
+	Child 2: my value is 124 and my index is 34 
+	Child 2: my value is 125 and my index is 35 
+	Child 2: my value is 126 and my index is 36 
+	Child 2: my value is 127 and my index is 37 
+	Child 2: my value is 128 and my index is 38 
+	Child 2: my value is 129 and my index is 39 
+	Child 2: my value is 130 and my index is 40 
+	Child 2: my value is 131 and my index is 41 
+	Child 2: my value is 132 and my index is 42 
+	Child 2: my value is 133 and my index is 43 
+	Child 2: my value is 134 and my index is 44 
+	Child 2: my value is 135 and my index is 45 
+	Child 2: my value is 136 and my index is 46 
+	Child 2: my value is 137 and my index is 47 
+	Child 2: my value is 138 and my index is 48 
+	Child 2: my value is 139 and my index is 49 
+	Child 2: my value is 140 and my index is 50 
+	Child 2: my value is 141 and my index is 51 
+	Child 2: my value is 142 and my index is 52 
+	Child 2: my value is 143 and my index is 53 
+	Child 2: my value is 144 and my index is 54 
+	Child 2: my value is 145 and my index is 55 
+	Child 2: my value is 146 and my index is 56 
+	Child 2: my value is 147 and my index is 57 
+	Child 2: my value is 148 and my index is 58 
+	Child 2: my value is 149 and my index is 59 
+	Child 2: my value is 150 and my index is 60 
+	Child 2: my value is 151 and my index is 61 
+	Child 2: my value is 152 and my index is 62 
+	Child 2: my value is 153 and my index is 63 
+	Child 2: my value is 154 and my index is 64 
+	Child 2: my value is 155 and my index is 65 
+	Child 2: my value is 156 and my index is 66 
+	Child 2: my value is 157 and my index is 67 
+	Child 2: my value is 158 and my index is 68 
+	Child 2: my value is 159 and my index is 69 
+	Child 2: my value is 160 and my index is 70 
+	Child 2: my value is 161 and my index is 71 
+	Child 2: my value is 162 and my index is 72 
+	Child 2: my value is 163 and my index is 73 
+	Child 2: my value is 164 and my index is 74 
+	Child 2: my value is 165 and my index is 75 
+	Child 2: my value is 166 and my index is 76 
+	Child 2: my value is 167 and my index is 77 
+	Child 2: my value is 168 and my index is 78 
+	Child 2: my value is 169 and my index is 79 
+	Child 2: my value is 170 and my index is 80 
+	Child 2: my value is 171 and my index is 81 
+	Child 2: my value is 172 and my index is 82 
+	Child 2: my value is 173 and my index is 83 
+	Child 2: my value is 174 and my index is 84 
+	Child 2: my value is 175 and my index is 85 
+	Child 2: my value is 176 and my index is 86 
+	Child 2: my value is 177 and my index is 87 
+	Child 2: my value is 178 and my index is 88 
+	Child 2: my value is 179 and my index is 89 
+	Child 2: my value is 180 and my index is 90 
+	Child 2: my value is 181 and my index is 91 
+	Child 2: my value is 182 and my index is 92 
+	Child 2: my value is 183 and my index is 93 
+	Child 2: my value is 184 and my index is 94 
+	Child 2: my value is 185 and my index is 95 
+	Child 2: my value is 186 and my index is 96 
+	Child 2: my value is 187 and my index is 97 
+	Child 2: my value is 188 and my index is 98 
+	Child 2: my value is 189 and my index is 99 
+	Child 2: my value is 190 and my index is 100 
+	Child 2: my value is 191 and my index is 101 
+	Child 2: my value is 192 and my index is 102 
+	Child 2: my value is 193 and my index is 103 
+	Child 2: my value is 194 and my index is 104 
+	Child 2: my value is 195 and my index is 105 
+	Child 2: my value is 196 and my index is 106 
+	Child 2: my value is 197 and my index is 107 
+	Child 2: my value is 198 and my index is 108 
+	Child 2: my value is 199 and my index is 109 
+	Child 2: my value is 200 and my index is 110 
+	Child 2: my value is 201 and my index is 111 
+	Child 2: my value is 202 and my index is 112 
+	Child 2: my value is 203 and my index is 113 
+	Child 2: my value is 204 and my index is 114 
+	Child 2: my value is 205 and my index is 115 
+	Child 2: my value is 206 and my index is 116 
+	Child 2: my value is 207 and my index is 117 
+	Child 2: my value is 208 and my index is 118 
+	Child 2: my value is 209 and my index is 119 
+	Child 2: my value is 210 and my index is 120 
+	Child 2: my value is 211 and my index is 121 
+	Child 2: my value is 212 and my index is 122 
+	Child 2: my value is 213 and my index is 123 
+	Child 2: my value is 214 and my index is 124 
+	Child 2: my value is 215 and my index is 125 
+	Child 2: my value is 216 and my index is 126 
+	Child 2: my value is 217 and my index is 127 
+	Child 2: my value is 218 and my index is 128 
+	Child 2: my value is 219 and my index is 129 
+	Child 2: my value is 220 and my index is 130 
+	Child 2: my value is 221 and my index is 131 
+	Child 2: my value is 222 and my index is 132 
+	Child 2: my value is 223 and my index is 133 
+	Child 2: my value is 224 and my index is 134 
+	Child 2: my value is 225 and my index is 135 
+	Child 2: my value is 226 and my index is 136 
+	Child 2: my value is 227 and my index is 137 
+	Child 2: my value is 228 and my index is 138 
+	Child 2: my value is 229 and my index is 139 
+	Child 2: my value is 230 and my index is 140 
+	Child 2: my value is 231 and my index is 141 
+	Child 2: my value is 232 and my index is 142 
+	Child 2: my value is 233 and my index is 143 
+	Child 2: my value is 234 and my index is 144 
+	Child 2: my value is 235 and my index is 145 
+	Child 2: my value is 236 and my index is 146 
+	Child 2: my value is 237 and my index is 147 
+	Child 2: my value is 238 and my index is 148 
+	Child 2: my value is 239 and my index is 149 
+	Child 2: my value is 240 and my index is 150 
+	Child 2: my value is 241 and my index is 151 
+	Child 2: my value is 242 and my index is 152 
+	Child 2: my value is 243 and my index is 153 
+	Child 2: my value is 244 and my index is 154 
+	Child 2: my value is 245 and my index is 155 
+	Child 2: my value is 246 and my index is 156 
+	Child 2: my value is 247 and my index is 157 
+	Child 2: my value is 248 and my index is 158 
+	Child 2: my value is 249 and my index is 159 
+	Child 2: my value is 250 and my index is 160 
+	Child 2: my value is 251 and my index is 161 
+	Child 2: my value is 252 and my index is 162 
+	Child 2: my value is 253 and my index is 163 
+	Child 2: my value is 254 and my index is 164 
+	Child 2: my value is 255 and my index is 165 
+	Child 2: my value is 256 and my index is 166 
+	Child 2: my value is 257 and my index is 167 
+	Child 2: my value is 258 and my index is 168 
+	Child 2: my value is 259 and my index is 169 
+	Child 2: my value is 260 and my index is 170 
+	Child 2: my value is 261 and my index is 171 
+	Child 2: my value is 262 and my index is 172 
+	Child 2: my value is 263 and my index is 173 
+	Child 2: my value is 264 and my index is 174 
+	Child 2: my value is 265 and my index is 175 
+	Child 2: my value is 266 and my index is 176 
+	Child 2: my value is 267 and my index is 177 
+	Child 2: my value is 268 and my index is 178 
+	Child 2: my value is 269 and my index is 179 
+	Child 2: my value is 270 and my index is 180 
+	Child 2: my value is 271 and my index is 181 
+	Child 2: my value is 272 and my index is 182 
+	Child 2: my value is 273 and my index is 183 
+	Child 2: my value is 274 and my index is 184 
+	Child 2: my value is 275 and my index is 185 
+	Child 2: my value is 276 and my index is 186 
+	Child 2: my value is 277 and my index is 187 
+	Child 2: my value is 278 and my index is 188 
+	Child 2: my value is 279 and my index is 189 
+	Child 2: my value is 280 and my index is 190 
+	Child 2: my value is 281 and my index is 191 
+	Child 2: my value is 282 and my index is 192 
+	Child 2: my value is 283 and my index is 193 
+	Child 2: my value is 284 and my index is 194 
+	Child 2: my value is 285 and my index is 195 
+	Child 2: my value is 286 and my index is 196 
+	Child 2: my value is 287 and my index is 197 
+	Child 2: my value is 288 and my index is 198 
+	Child 2: my value is 289 and my index is 199 
+	Child 2: my value is 290 and my index is 200 
+	Child 2: my value is 291 and my index is 201 
+	Child 2: my value is 292 and my index is 202 
+	Child 2: my value is 293 and my index is 203 
+	Child 2: my value is 294 and my index is 204 
+	Child 2: my value is 295 and my index is 205 
+	Child 2: my value is 296 and my index is 206 
+	Child 2: my value is 297 and my index is 207 
+	Child 2: my value is 298 and my index is 208 
+	Child 2: my value is 299 and my index is 209 
+	Child 2: my value is 300 and my index is 210 
+	Child 2: my value is 301 and my index is 211 
+	Child 2: my value is 302 and my index is 212 
+	Child 2: my value is 303 and my index is 213 
+	Child 2: my value is 304 and my index is 214 
+	Child 2: my value is 305 and my index is 215 
+	Child 2: my value is 306 and my index is 216 
+	Child 2: my value is 307 and my index is 217 
+	Child 2: my value is 308 and my index is 218 
+	Child 2: my value is 309 and my index is 219 
+	Child 2: my value is 310 and my index is 220 
+	Child 2: my value is 311 and my index is 221 
+	Child 2: my value is 312 and my index is 222 
+	Child 2: my value is 313 and my index is 223 
+	Child 2: my value is 314 and my index is 224 
+	Child 2: my value is 315 and my index is 225 
+	Child 2: my value is 316 and my index is 226 
+	Child 2: my value is 317 and my index is 227 
+	Child 2: my value is 318 and my index is 228 
+	Child 2: my value is 319 and my index is 229 
+	Child 2: my value is 320 and my index is 230 
+	Child 2: my value is 321 and my index is 231 
+	Child 2: my value is 322 and my index is 232 
+	Child 2: my value is 323 and my index is 233 
+	Child 2: my value is 324 and my index is 234 
+	Child 2: my value is 325 and my index is 235 
+	Child 2: my value is 326 and my index is 236 
+	Child 2: my value is 327 and my index is 237 
+	Child 2: my value is 328 and my index is 238 
+	Child 2: my value is 329 and my index is 239 
+	Child 2: my value is 330 and my index is 240 
+	Child 2: my value is 331 and my index is 241 
+	Child 2: my value is 332 and my index is 242 
+	Child 2: my value is 333 and my index is 243 
+	Child 2: my value is 334 and my index is 244 
+	Child 2: my value is 335 and my index is 245 
+	Child 2: my value is 336 and my index is 246 
+	Child 2: my value is 337 and my index is 247 
+	Child 2: my value is 338 and my index is 248 
+	Child 2: my value is 339 and my index is 249 
+	Child 2: my value is 340 and my index is 250 
+	Child 2: my value is 341 and my index is 251 
+	Child 2: my value is 342 and my index is 252 
+	Child 2: my value is 343 and my index is 253 
+	Child 2: my value is 344 and my index is 254 
+	Child 2: my value is 345 and my index is 255 
+	Child 2: my value is 346 and my index is 256 
+	Child 2: my value is 347 and my index is 257 
+	Child 2: my value is 348 and my index is 258 
+	Child 2: my value is 349 and my index is 259 
+	Child 2: my value is 350 and my index is 260 
+	Child 2: my value is 351 and my index is 261 
+	Child 2: my value is 352 and my index is 262 
+	Child 2: my value is 353 and my index is 263 
+	Child 2: my value is 354 and my index is 264 
+	Child 2: my value is 355 and my index is 265 
+	Child 2: my value is 356 and my index is 266 
+	Child 2: my value is 357 and my index is 267 
+	Child 2: my value is 358 and my index is 268 
+	Child 2: my value is 359 and my index is 269 
+	Child 2: my value is 360 and my index is 270 
+	Child 2: my value is 361 and my index is 271 
+	Child 2: my value is 362 and my index is 272 
+	Child 2: my value is 363 and my index is 273 
+	Child 2: my value is 364 and my index is 274 
+	Child 2: my value is 365 and my index is 275 
+	Child 2: my value is 366 and my index is 276 
+	Child 2: my value is 367 and my index is 277 
+	Child 2: my value is 368 and my index is 278 
+	Child 2: my value is 369 and my index is 279 
+	Child 2: my value is 370 and my index is 280 
+	Child 2: my value is 371 and my index is 281 
+	Child 2: my value is 372 and my index is 282 
+	Child 2: my value is 373 and my index is 283 
+	Child 2: my value is 374 and my index is 284 
+	Child 2: my value is 375 and my index is 285 
+	Child 2: my value is 376 and my index is 286 
+	Child 2: my value is 377 and my index is 287 
+	Child 2: my value is 378 and my index is 288 
+	Child 2: my value is 379 and my index is 289 
+	Child 2: my value is 380 and my index is 290 
+	Child 2: my value is 381 and my index is 291 
+	Child 2: my value is 382 and my index is 292 
+	Child 2: my value is 383 and my index is 293 
+	Child 2: my value is 384 and my index is 294 
+	Child 2: my value is 385 and my index is 295 
+	Child 2: my value is 386 and my index is 296 
+	Child 2: my value is 387 and my index is 297 
+	Child 2: my value is 388 and my index is 298 
+	Child 2: my value is 389 and my index is 299 
+	Child 2: my value is 390 and my index is 300 
+	Child 2: my value is 391 and my index is 301 
+	Child 2: my value is 392 and my index is 302 
+	Child 2: my value is 393 and my index is 303 
+	Child 2: my value is 394 and my index is 304 
+	Child 2: my value is 395 and my index is 305 
+	Child 2: my value is 396 and my index is 306 
+	Child 2: my value is 397 and my index is 307 
+	Child 2: my value is 398 and my index is 308 
+	Child 2: my value is 399 and my index is 309 
+	Child 2: my value is 400 and my index is 310 
+	Child 2: my value is 401 and my index is 311 
+	Child 2: my value is 402 and my index is 312 
+	Child 2: my value is 403 and my index is 313 
+	Child 2: my value is 404 and my index is 314 
+	Child 2: my value is 405 and my index is 315 
+	Child 2: my value is 406 and my index is 316 
+	Child 2: my value is 407 and my index is 317 
+	Child 2: my value is 408 and my index is 318 
+	Child 2: my value is 409 and my index is 319 
+	Child 2: my value is 410 and my index is 320 
+	Child 2: my value is 411 and my index is 321 
+	Child 2: my value is 412 and my index is 322 
+	Child 2: my value is 413 and my index is 323 
+	Child 2: my value is 414 and my index is 324 
+	Child 2: my value is 415 and my index is 325 
+	Child 2: my value is 416 and my index is 326 
+	Child 2: my value is 417 and my index is 327 
+	Child 2: my value is 418 and my index is 328 
+	Child 2: my value is 419 and my index is 329 
+	Child 2: my value is 420 and my index is 330 
+	Child 2: my value is 421 and my index is 331 
+	Child 2: my value is 422 and my index is 332 
+	Child 2: my value is 423 and my index is 333 
+	Child 2: my value is 424 and my index is 334 
+	Child 2: my value is 425 and my index is 335 
+	Child 2: my value is 426 and my index is 336 
+	Child 2: my value is 427 and my index is 337 
+	Child 2: my value is 428 and my index is 338 
+	Child 2: my value is 429 and my index is 339 
+	Child 2: my value is 430 and my index is 340 
+	Child 2: my value is 431 and my index is 341 
+	Child 2: my value is 432 and my index is 342 
+	Child 2: my value is 433 and my index is 343 
+	Child 2: my value is 434 and my index is 344 
+	Child 2: my value is 435 and my index is 345 
+	Child 2: my value is 436 and my index is 346 
+	Child 2: my value is 437 and my index is 347 
+	Child 2: my value is 438 and my index is 348 
+	Child 2: my value is 439 and my index is 349 
+	Child 2: my value is 440 and my index is 350 
+	Child 2: my value is 441 and my index is 351 
+	Child 2: my value is 442 and my index is 352 
+	Child 2: my value is 443 and my index is 353 
+	Child 2: my value is 444 and my index is 354 
+	Child 2: my value is 445 and my index is 355 
+	Child 2: my value is 446 and my index is 356 
+	Child 2: my value is 447 and my index is 357 
+	Child 2: my value is 448 and my index is 358 
+	Child 2: my value is 449 and my index is 359 
+	Child 2: my value is 450 and my index is 360 
+	Child 2: my value is 451 and my index is 361 
+	Child 2: my value is 452 and my index is 362 
+	Child 2: my value is 453 and my index is 363 
+	Child 2: my value is 454 and my index is 364 
+	Child 2: my value is 455 and my index is 365 
+	Child 2: my value is 456 and my index is 366 
+	Child 2: my value is 457 and my index is 367 
+	Child 2: my value is 458 and my index is 368 
+	Child 2: my value is 459 and my index is 369 
+	Child 2: my value is 460 and my index is 370 
+	Child 2: my value is 461 and my index is 371 
+	Child 2: my value is 462 and my index is 372 
+	Child 2: my value is 463 and my index is 373 
+	Child 2: my value is 464 and my index is 374 
+	Child 2: my value is 465 and my index is 375 
+	Child 2: my value is 466 and my index is 376 
+	Child 2: my value is 467 and my index is 377 
+	Child 2: my value is 468 and my index is 378 
+	Child 2: my value is 469 and my index is 379 
+	Child 2: my value is 470 and my index is 380 
+	Child 2: my value is 471 and my index is 381 
+	Child 2: my value is 472 and my index is 382 
+	Child 2: my value is 473 and my index is 383 
+	Child 2: my value is 474 and my index is 384 
+	Child 2: my value is 475 and my index is 385 
+	Child 2: my value is 476 and my index is 386 
+	Child 2: my value is 477 and my index is 387 
+	Child 2: my value is 478 and my index is 388 
+	Child 2: my value is 479 and my index is 389 
+	Child 2: my value is 480 and my index is 390 
+	Child 2: my value is 481 and my index is 391 
+	Child 2: my value is 482 and my index is 392 
+	Child 2: my value is 483 and my index is 393 
+	Child 2: my value is 484 and my index is 394 
+	Child 2: my value is 485 and my index is 395 
+	Child 2: my value is 486 and my index is 396 
+	Child 2: my value is 487 and my index is 397 
+	Child 2: my value is 488 and my index is 398 
+	Child 2: my value is 489 and my index is 399 
+	Child 2: my value is 490 and my index is 400 
+	Child 2: my value is 491 and my index is 401 
+	Child 2: my value is 492 and my index is 402 
+	Child 2: my value is 493 and my index is 403 
+	Child 2: my value is 494 and my index is 404 
+	Child 2: my value is 495 and my index is 405 
+	Child 2: my value is 496 and my index is 406 
+	Child 2: my value is 497 and my index is 407 
+	Child 2: my value is 498 and my index is 408 
+	Child 2: my value is 499 and my index is 409 
+	Child 2: my value is 500 and my index is 410 
+	Child 2: my value is 501 and my index is 411 
+	Child 2: my value is 502 and my index is 412 
+	Child 2: my value is 503 and my index is 413 
+	Child 2: my value is 504 and my index is 414 
+	Child 2: my value is 505 and my index is 415 
+	Child 2: my value is 506 and my index is 416 
+	Child 2: my value is 507 and my index is 417 
+	Child 2: my value is 508 and my index is 418 
+	Child 2: my value is 509 and my index is 419 
+	Child 2: my value is 510 and my index is 420 
+	Child 2: my value is 511 and my index is 421 
+	Child 2: my value is 512 and my index is 422 
+	Child 2: my value is 513 and my index is 423 
+	Child 2: my value is 514 and my index is 424 
+	Child 2: my value is 515 and my index is 425 
+	Child 2: my value is 516 and my index is 426 
+	Child 2: my value is 517 and my index is 427 
+	Child 2: my value is 518 and my index is 428 
+	Child 2: my value is 519 and my index is 429 
+	Child 2: my value is 520 and my index is 430 
+	Child 2: my value is 521 and my index is 431 
+	Child 2: my value is 522 and my index is 432 
+	Child 2: my value is 523 and my index is 433 
+	Child 2: my value is 524 and my index is 434 
+	Child 2: my value is 525 and my index is 435 
+	Child 2: my value is 526 and my index is 436 
+	Child 2: my value is 527 and my index is 437 
+	Child 2: my value is 528 and my index is 438 
+	Child 2: my value is 529 and my index is 439 
+	Child 2: my value is 530 and my index is 440 
+	Child 2: my value is 531 and my index is 441 
+	Child 2: my value is 532 and my index is 442 
+	Child 2: my value is 533 and my index is 443 
+	Child 2: my value is 534 and my index is 444 
+	Child 2: my value is 535 and my index is 445 
+	Child 2: my value is 536 and my index is 446 
+	Child 2: my value is 537 and my index is 447 
+	Child 2: my value is 538 and my index is 448 
+	Child 2: my value is 539 and my index is 449 
+	Child 2: my value is 540 and my index is 450 
+	Child 2: my value is 541 and my index is 451 
+	Child 2: my value is 542 and my index is 452 
+	Child 2: my value is 543 and my index is 453 
+	Child 2: my value is 544 and my index is 454 
+	Child 2: my value is 545 and my index is 455 
+	Child 2: my value is 546 and my index is 456 
+	Child 2: my value is 547 and my index is 457 
+	Child 2: my value is 548 and my index is 458 
+	Child 2: my value is 549 and my index is 459 
+	Child 2: my value is 550 and my index is 460 
+	Child 2: my value is 551 and my index is 461 
+	Child 2: my value is 552 and my index is 462 
+	Child 2: my value is 553 and my index is 463 
+	Child 2: my value is 554 and my index is 464 
+	Child 2: my value is 555 and my index is 465 
+	Child 2: my value is 556 and my index is 466 
+	Child 2: my value is 557 and my index is 467 
+	Child 2: my value is 558 and my index is 468 
+	Child 2: my value is 559 and my index is 469 
+	Child 2: my value is 560 and my index is 470 
+	Child 2: my value is 561 and my index is 471 
+	Child 2: my value is 562 and my index is 472 
+	Child 2: my value is 563 and my index is 473 
+	Child 2: my value is 564 and my index is 474 
+	Child 2: my value is 565 and my index is 475 
+	Child 2: my value is 566 and my index is 476 
+	Child 2: my value is 567 and my index is 477 
+	Child 2: my value is 568 and my index is 478 
+	Child 2: my value is 569 and my index is 479 
+	Child 2: my value is 570 and my index is 480 
+	Child 2: my value is 571 and my index is 481 
+	Child 2: my value is 572 and my index is 482 
+	Child 2: my value is 573 and my index is 483 
+	Child 2: my value is 574 and my index is 484 
+	Child 2: my value is 575 and my index is 485 
+	Child 2: my value is 576 and my index is 486 
+	Child 2: my value is 577 and my index is 487 
+	Child 2: my value is 578 and my index is 488 
+	Child 2: my value is 579 and my index is 489 
+	Child 2: my value is 580 and my index is 490 
+	Child 2: my value is 581 and my index is 491 
+	Child 2: my value is 582 and my index is 492 
+	Child 2: my value is 583 and my index is 493 
+	Child 2: my value is 584 and my index is 494 
+	Child 2: my value is 585 and my index is 495 
+	Child 2: my value is 586 and my index is 496 
+	Child 2: my value is 587 and my index is 497 
+	Child 2: my value is 588 and my index is 498 
+	Child 2: my value is 589 and my index is 499 
+	Child 2: my value is 590 and my index is 500 
+	Child 2: my value is 591 and my index is 501 
+	Child 2: my value is 592 and my index is 502 
+	Child 2: my value is 593 and my index is 503 
+	Child 2: my value is 594 and my index is 504 
+	Child 2: my value is 595 and my index is 505 
+	Child 2: my value is 596 and my index is 506 
+	Child 2: my value is 597 and my index is 507 
+	Child 2: my value is 598 and my index is 508 
+	Child 2: my value is 599 and my index is 509 
+	Child 2: my value is 600 and my index is 510 
+	Child 2: my value is 601 and my index is 511 
+	Child 2: my value is 602 and my index is 512 
+	Child 2: my value is 603 and my index is 513 
+	Child 2: my value is 604 and my index is 514 
+	Child 2: my value is 605 and my index is 515 
+	Child 2: my value is 606 and my index is 516 
+	Child 2: my value is 607 and my index is 517 
+	Child 2: my value is 608 and my index is 518 
+	Child 2: my value is 609 and my index is 519 
+	Child 2: my value is 610 and my index is 520 
+	Child 2: my value is 611 and my index is 521 
+	Child 2: my value is 612 and my index is 522 
+	Child 2: my value is 613 and my index is 523 
+	Child 2: my value is 614 and my index is 524 
+	Child 2: my value is 615 and my index is 525 
+	Child 2: my value is 616 and my index is 526 
+	Child 2: my value is 617 and my index is 527 
+	Child 2: my value is 618 and my index is 528 
+	Child 2: my value is 619 and my index is 529 
+	Child 2: my value is 620 and my index is 530 
+	Child 2: my value is 621 and my index is 531 
+	Child 2: my value is 622 and my index is 532 
+	Child 2: my value is 623 and my index is 533 
+	Child 2: my value is 624 and my index is 534 
+	Child 2: my value is 625 and my index is 535 
+	Child 2: my value is 626 and my index is 536 
+	Child 2: my value is 627 and my index is 537 
+	Child 2: my value is 628 and my index is 538 
+	Child 2: my value is 629 and my index is 539 
+	Child 2: my value is 630 and my index is 540 
+	Child 2: my value is 631 and my index is 541 
+	Child 2: my value is 632 and my index is 542 
+	Child 2: my value is 633 and my index is 543 
+	Child 2: my value is 634 and my index is 544 
+	Child 2: my value is 635 and my index is 545 
+	Child 2: my value is 636 and my index is 546 
+	Child 2: my value is 637 and my index is 547 
+	Child 2: my value is 638 and my index is 548 
+	Child 2: my value is 639 and my index is 549 
+	Child 2: my value is 640 and my index is 550 
+	Child 2: my value is 641 and my index is 551 
+	Child 2: my value is 642 and my index is 552 
+	Child 2: my value is 643 and my index is 553 
+	Child 2: my value is 644 and my index is 554 
+	Child 2: my value is 645 and my index is 555 
+	Child 2: my value is 646 and my index is 556 
+	Child 2: my value is 647 and my index is 557 
+	Child 2: my value is 648 and my index is 558 
+	Child 2: my value is 649 and my index is 559 
+	Child 2: my value is 650 and my index is 560 
+	Child 2: my value is 651 and my index is 561 
+	Child 2: my value is 652 and my index is 562 
+	Child 2: my value is 653 and my index is 563 
+	Child 2: my value is 654 and my index is 564 
+	Child 2: my value is 655 and my index is 565 
+	Child 2: my value is 656 and my index is 566 
+	Child 2: my value is 657 and my index is 567 
+	Child 2: my value is 658 and my index is 568 
+	Child 2: my value is 659 and my index is 569 
+	Child 2: my value is 660 and my index is 570 
+	Child 2: my value is 661 and my index is 571 
+	Child 2: my value is 662 and my index is 572 
+	Child 2: my value is 663 and my index is 573 
+	Child 2: my value is 664 and my index is 574 
+	Child 2: my value is 665 and my index is 575 
+	Child 2: my value is 666 and my index is 576 
+	Child 2: my value is 667 and my index is 577 
+	Child 2: my value is 668 and my index is 578 
+	Child 2: my value is 669 and my index is 579 
+	Child 2: my value is 670 and my index is 580 
+	Child 2: my value is 671 and my index is 581 
+	Child 2: my value is 672 and my index is 582 
+	Child 2: my value is 673 and my index is 583 
+	Child 2: my value is 674 and my index is 584 
+	Child 2: my value is 675 and my index is 585 
+	Child 2: my value is 676 and my index is 586 
+	Child 2: my value is 677 and my index is 587 
+	Child 2: my value is 678 and my index is 588 
+	Child 2: my value is 679 and my index is 589 
+	Child 2: my value is 680 and my index is 590 
+	Child 2: my value is 681 and my index is 591 
+	Child 2: my value is 682 and my index is 592 
+	Child 2: my value is 683 and my index is 593 
+	Child 2: my value is 684 and my index is 594 
+	Child 2: my value is 685 and my index is 595 
+	Child 2: my value is 686 and my index is 596 
+	Child 2: my value is 687 and my index is 597 
+	Child 2: my value is 688 and my index is 598 
+	Child 2: my value is 689 and my index is 599 
+	Child 2: my value is 690 and my index is 600 
+	Child 2: my value is 691 and my index is 601 
+	Child 2: my value is 692 and my index is 602 
+	Child 2: my value is 693 and my index is 603 
+	Child 2: my value is 694 and my index is 604 
+	Child 2: my value is 695 and my index is 605 
+	Child 2: my value is 696 and my index is 606 
+	Child 2: my value is 697 and my index is 607 
+	Child 2: my value is 698 and my index is 608 
+	Child 2: my value is 699 and my index is 609 
+	Child 2: my value is 700 and my index is 610 
+	Child 2: my value is 701 and my index is 611 
+	Child 2: my value is 702 and my index is 612 
+	Child 2: my value is 703 and my index is 613 
+	Child 2: my value is 704 and my index is 614 
+	Child 2: my value is 705 and my index is 615 
+	Child 2: my value is 706 and my index is 616 
+	Child 2: my value is 707 and my index is 617 
+	Child 2: my value is 708 and my index is 618 
+	Child 2: my value is 709 and my index is 619 
+	Child 2: my value is 710 and my index is 620 
+	Child 2: my value is 711 and my index is 621 
+	Child 2: my value is 712 and my index is 622 
+	Child 2: my value is 713 and my index is 623 
+	Child 2: my value is 714 and my index is 624 
+	Child 2: my value is 715 and my index is 625 
+	Child 2: my value is 716 and my index is 626 
+	Child 2: my value is 717 and my index is 627 
+	Child 2: my value is 718 and my index is 628 
+	Child 2: my value is 719 and my index is 629 
+	Child 2: my value is 720 and my index is 630 
+	Child 2: my value is 721 and my index is 631 
+	Child 2: my value is 722 and my index is 632 
+	Child 2: my value is 723 and my index is 633 
+	Child 2: my value is 724 and my index is 634 
+	Child 2: my value is 725 and my index is 635 
+	Child 2: my value is 726 and my index is 636 
+	Child 2: my value is 727 and my index is 637 
+	Child 2: my value is 728 and my index is 638 
+	Child 2: my value is 729 and my index is 639 
+	Child 2: my value is 730 and my index is 640 
+	Child 2: my value is 731 and my index is 641 
+	Child 2: my value is 732 and my index is 642 
+	Child 2: my value is 733 and my index is 643 
+	Child 2: my value is 734 and my index is 644 
+	Child 2: my value is 735 and my index is 645 
+	Child 2: my value is 736 and my index is 646 
+	Child 2: my value is 737 and my index is 647 
+	Child 2: my value is 738 and my index is 648 
+	Child 2: my value is 739 and my index is 649 
+	Child 2: my value is 740 and my index is 650 
+	Child 2: my value is 741 and my index is 651 
+	Child 2: my value is 742 and my index is 652 
+	Child 2: my value is 743 and my index is 653 
+	Child 2: my value is 744 and my index is 654 
+	Child 2: my value is 745 and my index is 655 
+	Child 2: my value is 746 and my index is 656 
+	Child 2: my value is 747 and my index is 657 
+	Child 2: my value is 748 and my index is 658 
+	Child 2: my value is 749 and my index is 659 
+	Child 2: my value is 750 and my index is 660 
+	Child 2: my value is 751 and my index is 661 
+	Child 2: my value is 752 and my index is 662 
+	Child 2: my value is 753 and my index is 663 
+	Child 2: my value is 754 and my index is 664 
+	Child 2: my value is 755 and my index is 665 
+	Child 2: my value is 756 and my index is 666 
+	Child 2: my value is 757 and my index is 667 
+	Child 2: my value is 758 and my index is 668 
+	Child 2: my value is 759 and my index is 669 
+	Child 2: my value is 760 and my index is 670 
+	Child 2: my value is 761 and my index is 671 
+	Child 2: my value is 762 and my index is 672 
+	Child 2: my value is 763 and my index is 673 
+	Child 2: my value is 764 and my index is 674 
+	Child 2: my value is 765 and my index is 675 
+	Child 2: my value is 766 and my index is 676 
+	Child 2: my value is 767 and my index is 677 
+	Child 2: my value is 768 and my index is 678 
+	Child 2: my value is 769 and my index is 679 
+	Child 2: my value is 770 and my index is 680 
+	Child 2: my value is 771 and my index is 681 
+	Child 2: my value is 772 and my index is 682 
+	Child 2: my value is 773 and my index is 683 
+	Child 2: my value is 774 and my index is 684 
+	Child 2: my value is 775 and my index is 685 
+	Child 2: my value is 776 and my index is 686 
+	Child 2: my value is 777 and my index is 687 
+	Child 2: my value is 778 and my index is 688 
+	Child 2: my value is 779 and my index is 689 
+	Child 2: my value is 780 and my index is 690 
+	Child 2: my value is 781 and my index is 691 
+	Child 2: my value is 782 and my index is 692 
+	Child 2: my value is 783 and my index is 693 
+	Child 2: my value is 784 and my index is 694 
+	Child 2: my value is 785 and my index is 695 
+	Child 2: my value is 786 and my index is 696 
+	Child 2: my value is 787 and my index is 697 
+	Child 2: my value is 788 and my index is 698 
+	Child 2: my value is 789 and my index is 699 
+	Child 2: my value is 790 and my index is 700 
+	Child 2: my value is 791 and my index is 701 
+	Child 2: my value is 792 and my index is 702 
+	Child 2: my value is 793 and my index is 703 
+	Child 2: my value is 794 and my index is 704 
+	Child 2: my value is 795 and my index is 705 
+	Child 2: my value is 796 and my index is 706 
+	Child 2: my value is 797 and my index is 707 
+	Child 2: my value is 798 and my index is 708 
+	Child 2: my value is 799 and my index is 709 
+	Child 2: my value is 800 and my index is 710 
+	Child 2: my value is 801 and my index is 711 
+	Child 2: my value is 802 and my index is 712 
+	Child 2: my value is 803 and my index is 713 
+	Child 2: my value is 804 and my index is 714 
+	Child 2: my value is 805 and my index is 715 
+	Child 2: my value is 806 and my index is 716 
+	Child 2: my value is 807 and my index is 717 
+	Child 2: my value is 808 and my index is 718 
+	Child 2: my value is 809 and my index is 719 
+	Child 2: my value is 810 and my index is 720 
+	Child 2: my value is 811 and my index is 721 
+	Child 2: my value is 812 and my index is 722 
+	Child 2: my value is 813 and my index is 723 
+	Child 2: my value is 814 and my index is 724 
+	Child 2: my value is 815 and my index is 725 
+	Child 2: my value is 816 and my index is 726 
+	Child 2: my value is 817 and my index is 727 
+	Child 2: my value is 818 and my index is 728 
+	Child 2: my value is 819 and my index is 729 
+	Child 2: my value is 820 and my index is 730 
+	Child 2: my value is 821 and my index is 731 
+	Child 2: my value is 822 and my index is 732 
+	Child 2: my value is 823 and my index is 733 
+	Child 2: my value is 824 and my index is 734 
+	Child 2: my value is 825 and my index is 735 
+	Child 2: my value is 826 and my index is 736 
+	Child 2: my value is 827 and my index is 737 
+	Child 2: my value is 828 and my index is 738 
+	Child 2: my value is 829 and my index is 739 
+	Child 2: my value is 830 and my index is 740 
+	Child 2: my value is 831 and my index is 741 
+	Child 2: my value is 832 and my index is 742 
+	Child 2: my value is 833 and my index is 743 
+	Child 2: my value is 834 and my index is 744 
+	Child 2: my value is 835 and my index is 745 
+	Child 2: my value is 836 and my index is 746 
+	Child 2: my value is 837 and my index is 747 
+	Child 2: my value is 838 and my index is 748 
+	Child 2: my value is 839 and my index is 749 
+	Child 2: my value is 840 and my index is 750 
+	Child 2: my value is 841 and my index is 751 
+	Child 2: my value is 842 and my index is 752 
+	Child 2: my value is 843 and my index is 753 
+	Child 2: my value is 844 and my index is 754 
+	Child 2: my value is 845 and my index is 755 
+	Child 2: my value is 846 and my index is 756 
+	Child 2: my value is 847 and my index is 757 
+	Child 2: my value is 848 and my index is 758 
+	Child 2: my value is 849 and my index is 759 
+	Child 2: my value is 850 and my index is 760 
+	Child 2: my value is 851 and my index is 761 
+	Child 2: my value is 852 and my index is 762 
+	Child 2: my value is 853 and my index is 763 
+	Child 2: my value is 854 and my index is 764 
+	Child 2: my value is 855 and my index is 765 
+	Child 2: my value is 856 and my index is 766 
+	Child 2: my value is 857 and my index is 767 
+	Child 2: my value is 858 and my index is 768 
+	Child 2: my value is 859 and my index is 769 
+	Child 2: my value is 860 and my index is 770 
+	Child 2: my value is 861 and my index is 771 
+	Child 2: my value is 862 and my index is 772 
+	Child 2: my value is 863 and my index is 773 
+	Child 2: my value is 864 and my index is 774 
+	Child 2: my value is 865 and my index is 775 
+	Child 2: my value is 866 and my index is 776 
+	Child 2: my value is 867 and my index is 777 
+	Child 2: my value is 868 and my index is 778 
+	Child 2: my value is 869 and my index is 779 
+	Child 2: my value is 870 and my index is 780 
+	Child 2: my value is 871 and my index is 781 
+	Child 2: my value is 872 and my index is 782 
+	Child 2: my value is 873 and my index is 783 
+	Child 2: my value is 874 and my index is 784 
+	Child 2: my value is 875 and my index is 785 
+	Child 2: my value is 876 and my index is 786 
+	Child 2: my value is 877 and my index is 787 
+	Child 2: my value is 878 and my index is 788 
+	Child 2: my value is 879 and my index is 789 
+	Child 2: my value is 880 and my index is 790 
+	Child 2: my value is 881 and my index is 791 
+	Child 2: my value is 882 and my index is 792 
+	Child 2: my value is 883 and my index is 793 
+	Child 2: my value is 884 and my index is 794 
+	Child 2: my value is 885 and my index is 795 
+	Child 2: my value is 886 and my index is 796 
+	Child 2: my value is 887 and my index is 797 
+	Child 2: my value is 888 and my index is 798 
+	Child 2: my value is 889 and my index is 799 
+	Child 2: my value is 890 and my index is 800 
+	Child 2: my value is 891 and my index is 801 
+	Child 2: my value is 892 and my index is 802 
+	Child 2: my value is 893 and my index is 803 
+	Child 2: my value is 894 and my index is 804 
+	Child 2: my value is 895 and my index is 805 
+	Child 2: my value is 896 and my index is 806 
+	Child 2: my value is 897 and my index is 807 
+	Child 2: my value is 898 and my index is 808 
+	Child 2: my value is 899 and my index is 809 
+	Child 2: my value is 900 and my index is 810 
+	Child 2: my value is 901 and my index is 811 
+	Child 2: my value is 902 and my index is 812 
+	Child 2: my value is 903 and my index is 813 
+	Child 2: my value is 904 and my index is 814 
+	Child 2: my value is 905 and my index is 815 
+	Child 2: my value is 906 and my index is 816 
+	Child 2: my value is 907 and my index is 817 
+	Child 2: my value is 908 and my index is 818 
+	Child 2: my value is 909 and my index is 819 
+	Child 2: my value is 910 and my index is 820 
+	Child 2: my value is 911 and my index is 821 
+	Child 2: my value is 912 and my index is 822 
+	Child 2: my value is 913 and my index is 823 
+	Child 2: my value is 914 and my index is 824 
+	Child 2: my value is 915 and my index is 825 
+	Child 2: my value is 916 and my index is 826 
+	Child 2: my value is 917 and my index is 827 
+	Child 2: my value is 918 and my index is 828 
+	Child 2: my value is 919 and my index is 829 
+	Child 2: my value is 920 and my index is 830 
+	Child 2: my value is 921 and my index is 831 
+	Child 2: my value is 922 and my index is 832 
+	Child 2: my value is 923 and my index is 833 
+	Child 2: my value is 924 and my index is 834 
+	Child 2: my value is 925 and my index is 835 
+	Child 2: my value is 926 and my index is 836 
+	Child 2: my value is 927 and my index is 837 
+	Child 2: my value is 928 and my index is 838 
+	Child 2: my value is 929 and my index is 839 
+	Child 2: my value is 930 and my index is 840 
+	Child 2: my value is 931 and my index is 841 
+	Child 2: my value is 932 and my index is 842 
+	Child 2: my value is 933 and my index is 843 
+	Child 2: my value is 934 and my index is 844 
+	Child 2: my value is 935 and my index is 845 
+	Child 2: my value is 936 and my index is 846 
+	Child 2: my value is 937 and my index is 847 
+	Child 2: my value is 938 and my index is 848 
+	Child 2: my value is 939 and my index is 849 
+	Child 2: my value is 940 and my index is 850 
+	Child 2: my value is 941 and my index is 851 
+	Child 2: my value is 942 and my index is 852 
+	Child 2: my value is 943 and my index is 853 
+	Child 2: my value is 944 and my index is 854 
+	Child 2: my value is 945 and my index is 855 
+	Child 2: my value is 946 and my index is 856 
+	Child 2: my value is 947 and my index is 857 
+	Child 2: my value is 948 and my index is 858 
+	Child 2: my value is 949 and my index is 859 
+	Child 2: my value is 950 and my index is 860 
+	Child 2: my value is 951 and my index is 861 
+	Child 2: my value is 952 and my index is 862 
+	Child 2: my value is 953 and my index is 863 
+	Child 2: my value is 954 and my index is 864 
+	Child 2: my value is 955 and my index is 865 
+	Child 2: my value is 956 and my index is 866 
+	Child 2: my value is 957 and my index is 867 
+	Child 2: my value is 958 and my index is 868 
+	Child 2: my value is 959 and my index is 869 
+	Child 2: my value is 960 and my index is 870 
+	Child 2: my value is 961 and my index is 871 
+	Child 2: my value is 962 and my index is 872 
+	Child 2: my value is 963 and my index is 873 
+	Child 2: my value is 964 and my index is 874 
+	Child 2: my value is 965 and my index is 875 
+	Child 2: my value is 966 and my index is 876 
+	Child 2: my value is 967 and my index is 877 
+	Child 2: my value is 968 and my index is 878 
+	Child 2: my value is 969 and my index is 879 
+	Child 2: my value is 970 and my index is 880 
+	Child 2: my value is 971 and my index is 881 
+	Child 2: my value is 972 and my index is 882 
+	Child 2: my value is 973 and my index is 883 
+	Child 2: my value is 974 and my index is 884 
+	Child 2: my value is 975 and my index is 885 
+	Child 2: my value is 976 and my index is 886 
+	Child 2: my value is 977 and my index is 887 
+	Child 2: my value is 978 and my index is 888 
+	Child 2: my value is 979 and my index is 889 
+	Child 2: my value is 980 and my index is 890 
+	Child 2: my value is 981 and my index is 891 
+	Child 2: my value is 982 and my index is 892 
+	Child 2: my value is 983 and my index is 893 
+	Child 2: my value is 984 and my index is 894 
+	Child 2: my value is 985 and my index is 895 
+	Child 2: my value is 986 and my index is 896 
+	Child 2: my value is 987 and my index is 897 
+	Child 2: my value is 988 and my index is 898 
+	Child 2: my value is 989 and my index is 899 
+	Child 2: my value is 990 and my index is 900 
+	Child 2: my value is 991 and my index is 901 
+	Child 2: my value is 992 and my index is 902 
+	Child 2: my value is 993 and my index is 903 
+	Child 2: my value is 994 and my index is 904 
+	Child 2: my value is 995 and my index is 905 
+	Child 2: my value is 996 and my index is 906 
+	Child 2: my value is 997 and my index is 907 
+	Child 2: my value is 998 and my index is 908 
+	Child 2: my value is 999 and my index is 909 
+	Child 2: my value is 1000 and my index is 910 
+	Child 2: my value is 1001 and my index is 911 
+	Child 2: my value is 1002 and my index is 912 
+	Child 2: my value is 1003 and my index is 913 
+	Child 2: my value is 1004 and my index is 914 
+	Child 2: my value is 1005 and my index is 915 
+	Child 2: my value is 1006 and my index is 916 
+	Child 2: my value is 1007 and my index is 917 
+	Child 2: my value is 1008 and my index is 918 
+	Child 2: my value is 1009 and my index is 919 
+	Child 2: my value is 1010 and my index is 920 
+	Child 2: my value is 1011 and my index is 921 
+	Child 2: my value is 1012 and my index is 922 
+	Child 2: my value is 1013 and my index is 923 
+	Child 2: my value is 1014 and my index is 924 
+	Child 2: my value is 1015 and my index is 925 
+	Child 2: my value is 1016 and my index is 926 
+	Child 2: my value is 1017 and my index is 927 
+	Child 2: my value is 1018 and my index is 928 
+	Child 2: my value is 1019 and my index is 929 
+	Child 2: my value is 1020 and my index is 930 
+	Child 2: my value is 1021 and my index is 931 
+	Child 2: my value is 1022 and my index is 932 
+	Child 2: my value is 1023 and my index is 933 
+	Child 2: my value is 1024 and my index is 934 
+	Child 2: my value is 1025 and my index is 935 
+	Child 2: my value is 1026 and my index is 936 
+	Child 2: my value is 1027 and my index is 937 
+	Child 2: my value is 1028 and my index is 938 
+	Child 2: my value is 1029 and my index is 939 
+	Child 2: my value is 1030 and my index is 940 
+	Child 2: my value is 1031 and my index is 941 
+	Child 2: my value is 1032 and my index is 942 
+	Child 2: my value is 1033 and my index is 943 
+	Child 2: my value is 1034 and my index is 944 
+	Child 2: my value is 1035 and my index is 945 
+	Child 2: my value is 1036 and my index is 946 
+	Child 2: my value is 1037 and my index is 947 
+	Child 2: my value is 1038 and my index is 948 
+	Child 2: my value is 1039 and my index is 949 
+	Child 2: my value is 1040 and my index is 950 
+	Child 2: my value is 1041 and my index is 951 
+	Child 2: my value is 1042 and my index is 952 
+	Child 2: my value is 1043 and my index is 953 
+	Child 2: my value is 1044 and my index is 954 
+	Child 2: my value is 1045 and my index is 955 
+	Child 2: my value is 1046 and my index is 956 
+	Child 2: my value is 1047 and my index is 957 
+	Child 2: my value is 1048 and my index is 958 
+	Child 2: my value is 1049 and my index is 959 
+	Child 2: my value is 1050 and my index is 960 
+	Child 2: my value is 1051 and my index is 961 
+	Child 2: my value is 1052 and my index is 962 
+	Child 2: my value is 1053 and my index is 963 
+	Child 2: my value is 1054 and my index is 964 
+	Child 2: my value is 1055 and my index is 965 
+	Child 2: my value is 1056 and my index is 966 
+	Child 2: my value is 1057 and my index is 967 
+	Child 2: my value is 1058 and my index is 968 
+	Child 2: my value is 1059 and my index is 969 
+	Child 2: my value is 1060 and my index is 970 
+	Child 2: my value is 1061 and my index is 971 
+	Child 2: my value is 1062 and my index is 972 
+	Child 2: my value is 1063 and my index is 973 
+	Child 2: my value is 1064 and my index is 974 
+	Child 2: my value is 1065 and my index is 975 
+	Child 2: my value is 1066 and my index is 976 
+	Child 2: my value is 1067 and my index is 977 
+	Child 2: my value is 1068 and my index is 978 
+	Child 2: my value is 1069 and my index is 979 
+	Child 2: my value is 1070 and my index is 980 
+	Child 2: my value is 1071 and my index is 981 
+	Child 2: my value is 1072 and my index is 982 
+	Child 2: my value is 1073 and my index is 983 
+	Child 2: my value is 1074 and my index is 984 
+	Child 2: my value is 1075 and my index is 985 
+	Child 2: my value is 1076 and my index is 986 
+	Child 2: my value is 1077 and my index is 987 
+	Child 2: my value is 1078 and my index is 988 
+	Child 2: my value is 1079 and my index is 989 
+	Child 2: my value is 1080 and my index is 990 
+	Child 2: my value is 1081 and my index is 991 
+	Child 2: my value is 1082 and my index is 992 
+	Child 2: my value is 1083 and my index is 993 
+	Child 2: my value is 1084 and my index is 994 
+	Child 2: my value is 1085 and my index is 995 
+	Child 2: my value is 1086 and my index is 996 
+	Child 2: my value is 1087 and my index is 997 
+	Child 2: my value is 1088 and my index is 998 
+	Child 2: my value is 1089 and my index is 999 
+	Child 2: my value is 1090 and my index is 1000 
